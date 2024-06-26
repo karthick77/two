@@ -5,7 +5,8 @@ public class Works1 {
 	private String name;
 	private int age;
 	private double salary;
- //data
+	private String address;
+ 
 	public static void main(String[] args) {
 		
 		System.out.println("Works1 from branchX");
