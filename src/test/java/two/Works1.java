@@ -4,7 +4,7 @@ public class Works1 {
 	
 	private String name;
 	private int age;
-	private int salary;
+	private double salary;
 
 	public static void main(String[] args) {
 		
