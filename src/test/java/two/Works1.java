@@ -1,10 +1,11 @@
 package two;
 
 public class Works1 {
-	
+
 	private String name;
 	private int age;
-	private int salary;
+	private double salary;
+	private String address;
 
 	public static void main(String[] args) {
 		
