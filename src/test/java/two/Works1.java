@@ -6,7 +6,7 @@ public class Works1 {
 	private double emp_id;
 	private int age;
 	private double salary;
-	private String city;//city
+	private String city;//address
  
 	public static void main(String[] args) {
 		
