@@ -6,7 +6,7 @@ public class Works1 {
 		
 		System.out.println("Works1 from branchX");
 		System.out.println("Works2 from branchX");
-		System.out.println("Dream1 from master");
+		System.out.println("Dream1 from masters 1234");
 
 
 	}
