@@ -1,12 +1,13 @@
 package two;
 
 public class Works1 {
-
-	private int emp_id;
+	
+	private String name;
+	private double emp_id;
 	private int age;
 	private double salary;
 	private String address;
-
+ 
 	public static void main(String[] args) {
 		
 		System.out.println("Works1 from branchX");
