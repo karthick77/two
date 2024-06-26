@@ -3,6 +3,7 @@ package two;
 public class Works1 {
 	
 	private String name;
+	private double emp_id;
 	private int age;
 	private double salary;
 	private String address;
