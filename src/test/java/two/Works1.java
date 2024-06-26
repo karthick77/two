@@ -1,6 +1,10 @@
 package two;
 
 public class Works1 {
+	
+	private String name;
+	private int age;
+	private int salary;
 
 	public static void main(String[] args) {
 		
